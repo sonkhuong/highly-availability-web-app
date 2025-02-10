@@ -1,0 +1,22 @@
+[
+    {
+        "ParameterKey": "ProjectName",
+        "ParameterValue": "udacity-project-241105"
+    },
+    {
+        "ParameterKey": "AsgMinCapacity",
+        "ParameterValue": "1"
+    },
+    {
+        "ParameterKey": "AsgDesiredCapacity",
+        "ParameterValue": "1"
+    },
+    {
+        "ParameterKey": "AsgMaxCapacity",
+        "ParameterValue": "3"
+    },
+    {
+        "ParameterKey": "KeyPairName",
+        "ParameterValue": "sonkb-keypair"
+    }
+]

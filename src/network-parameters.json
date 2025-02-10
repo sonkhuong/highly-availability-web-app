@@ -1,0 +1,22 @@
+[
+    {
+        "ParameterKey": "ProjectName",
+        "ParameterValue": "udacity-project-241105"
+    },
+    {
+        "ParameterKey": "CIDRBlockPublic1",
+        "ParameterValue": "10.0.0.0/24"
+    },
+    {
+        "ParameterKey": "CIDRBlockPublic2",
+        "ParameterValue": "10.0.1.0/24"
+    },
+    {
+        "ParameterKey": "CIDRBlockPrivate1",
+        "ParameterValue": "10.0.2.0/24"
+    },
+    {
+        "ParameterKey": "CIDRBlockPrivate2",
+        "ParameterValue": "10.0.3.0/24"
+    }
+]
